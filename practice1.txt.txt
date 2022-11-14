@@ -1,1 +1,3 @@
 git pull push practice
+
+git push pull practice
