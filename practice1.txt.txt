@@ -1,5 +1,9 @@
 git pull push practice
 
+<<<<<<< HEAD
 
 
 wy this much time
+=======
+git push pull practice
+>>>>>>> d05b2646632402907e0e7aa46d494f37c0b7ba4e
