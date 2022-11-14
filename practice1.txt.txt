@@ -2,7 +2,7 @@ git pull push practice
 
 <<<<<<< HEAD
 
-
+confusion
 wy this much time
 =======
 git push pull practice
